@@ -1,0 +1,7 @@
+smart-browser/
+  pubspec.yaml
+  lib/
+    main.dart
+  .github/
+    workflows/
+      build-apk.yml
